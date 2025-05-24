@@ -1,0 +1,6 @@
+| Term         | Role                                                      |
+| ------------ | --------------------------------------------------------- |
+| `<Outlet />` | Renders the **child route** inside a **parent component** |
+| Useful for   | Layouts, dashboards, tabs, etc.                           |
+
+-->object cover tailwind property in image cover entire parent div 
